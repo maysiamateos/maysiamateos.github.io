@@ -2,8 +2,8 @@
     --primaryText: #fff;
     --secondaryText: #080649;
     --primary: rgba(37, 69, 231, 0.6);
-    --secondary: rgba(34, 88, 135, 0.6); 
-    --buttonHover: rgba(156, 39, 176, .40);
+    --secondary: rgba(42, 112, 174, 0.6); 
+    --buttonHover: rgb(253, 243, 255);
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
 
